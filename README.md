@@ -1,0 +1,2 @@
+# Equipo--Color--EstructurasDatos
+Estructura 
